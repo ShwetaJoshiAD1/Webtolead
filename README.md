@@ -1,6 +1,3 @@
-# Webtolead
-We are Creating Web to lead form for ilearning Edtech Project
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -104,4 +101,3 @@ We are Creating Web to lead form for ilearning Edtech Project
 <input type="submit" name="submit">
 
 </form>
-</html>
